@@ -1,0 +1,8 @@
+#profile-title: ꧁༺𝕸𝖔𝖓𝖘𝖙𝖊𝖗༻꧂
+#profile-update-interval: 1
+#support-url: https://t.me/FR1nter
+#profile-web-page-url: https://t.me/kill99gg
+#announce: 
+#subscription-userinfo: expire=63912227040
+#hide-servers: true
+vless://7f02e3c5-e386-4cfe-bd24-c49d196638b6@109.69.20.101:2087?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=_rkp9bSe2rz_fcWZS-OVP1HrvsR1fyBCGt0o92WPz1E&sid=f6019bc89397da24&spx=%2Ff9298f10cce18f7&type=tcp&headerType=none#🇩🇪 Германия
